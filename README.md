@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 I am a young computer scientist who has graduated with a bachelors degree in Mathematics and Computer Science. 
 I do a lot of freelance and personal projects but am also available for part time and full time jobs. 
 
-I am looking for an opportunity to create technologies thave a good impact on the community.
+I am a hardworking, self-driven, self-directed and motivated Computer Scientist who works effectively in a dynamic environment. Fluent in C/C++, Java, HTML, CSS, Javascript, PHP, Python, and SQL and a software engineer with expertise in all aspects of the software development life cycle, including requirements analysis, design, development and production support.
 
-I am a hardworking, self-driven, Self-directed and motivated Computer Scientist who works effectively in a dynamic environment. Fluent in C/C++, Java, HTML, CSS, Javascript, PHP, Python, and SQL and a software engineer with expertise in all aspects of the software development life cycle, including requirements analysis, design, development and production support.
+I am looking for an opportunity to create technologies thave a good impact on the community.
 
 # Contact Me
 Kioko Kennedy Musyimi

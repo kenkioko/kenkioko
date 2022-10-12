@@ -13,7 +13,6 @@ I am a hardworking, self-driven, Self-directed and motivated Computer Scientist 
 
 # Contact Me
 Kioko Kennedy Musyimi
-Nairobi Kenya
 
 - Portfolio: [kenkioko.github.io/](https://kenkioko.github.io/)
 - Email: [kmkioko@gmail.com](mailto:kmkioko@gmail.com)

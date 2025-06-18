@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I'm Kennedy Kioko Musyimi
 
-I'm a passionate **Computer Scientist** with over 6 years of professional experience in **full-stack software development**, **data analytics**, **Artificial Inteligence/Machine Learning**, and **academic research writing**. I specialize in building scalable web and mobile applications and writing technical and academic content in computer science and related domains.
+I'm a passionate **Computer Scientist** with over 6 years of professional experience in **full-stack software development**, **data analytics**, **Artificial Intelligence/Machine Learning**, and **academic research writing**. I specialize in building scalable web and mobile applications and writing technical and academic content in computer science and related domains.
 
 ## 🧑‍💻 About Me
 - 🎓 MSc Computer Science (Ongoing), University of East London

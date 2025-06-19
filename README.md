@@ -49,7 +49,7 @@ I also offer:
 ## 🧰 Tools & Technologies
 
 - C/C++ | Python | PHP | JavaScript | Java | SQL
-- Django | Laravel | React | Node.js | Flask
+- Django | Laravel | React | Node.js | Flask | Tensorflow | PyTorch
 - MySQL | MongoDB | Firebase | Elasticsearch
 - Git | GitHub | Linux | Docker | Travis CI | GCP | AWS | Azure
 

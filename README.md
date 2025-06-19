@@ -12,7 +12,7 @@ I'm a passionate **Computer Scientist** with over 6 years of professional experi
 - 🎓 BSc Mathematics & Computer Science, JKUAT
 - 📚 Academic Writer | 🔧 Software Engineer | 🌍 Freelancer
 - 🖥️ Languages: Python, PHP, C++, JavaScript, Java, SQL
-- 🌐 Frameworks: Django, Laravel, React, NodeJS, Vue.js, Flask
+- 🌐 Frameworks: Django, Laravel, React, NodeJS, Vue.js, Flask, Tensorflow, PyTorch
 - ☁️ Cloud: GCP, AWS, Azure
 
 ---
